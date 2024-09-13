@@ -2,9 +2,9 @@
 - 👀 I’m interested in AL/ML
 - 🌱 I’m currently learning JS
 <!--- - 💞️ I’m looking to collaborate on ..--->
-- 📫 reach out to me via email aryafirstone1@gmail.com 
+- 📫 reach out to me via email at aryafirstone1@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to do Archery.
+- ⚡ Fun fact: I like to do Archery and play Table Tennis.
 
 <!---
 arukaka/arukaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
