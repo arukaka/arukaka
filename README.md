@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arukaka
-- 👀 I’m interested in AL/ML
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in *
+- 🌱 I’m currently learning ...
 <!--- - 💞️ I’m looking to collaborate on ..--->
 - 📫 reach out to me via email at aryafirstone1@gmail.com 
 - 😄 Pronouns: He/Him
